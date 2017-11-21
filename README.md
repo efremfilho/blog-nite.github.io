@@ -6,6 +6,7 @@ http://nite.ceuma.br/wiki/doku.php
 O PROPOSITO É QUE ELA SEJA APROVADA E QUE SUBSTITUA O WIKI/DOKU
 
 OBJETIVOS:
+0- dowload do theme pelo JEKYLL
 1- Cria a home
   bootstrap: menu, breadcrumbs, slide, conteudo
 2- estururar menu com os conteudos existentes
